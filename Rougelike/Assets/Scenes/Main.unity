@@ -441,6 +441,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 770b96861d9764ae7a0e52241ae4f8a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BoardManager
+  Width: 8
+  Height: 8
+  GroundTiles:
+  - {fileID: 11400000, guid: eef403f9fc6544869b586d218f32f8d6, type: 2}
+  - {fileID: 11400000, guid: 2688e90580d78413da8d0aac2b0ac623, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
