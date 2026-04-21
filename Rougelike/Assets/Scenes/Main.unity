@@ -445,7 +445,9 @@ MonoBehaviour:
   Height: 8
   GroundTiles:
   - {fileID: 11400000, guid: eef403f9fc6544869b586d218f32f8d6, type: 2}
-  - {fileID: 11400000, guid: 2688e90580d78413da8d0aac2b0ac623, type: 2}
+  - {fileID: 11400000, guid: 24dba03c4337740f9ac3a3d5aae07294, type: 2}
+  WallTiles:
+  - {fileID: 11400000, guid: 7cced27428dcc4454b9b1658829d23a9, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
